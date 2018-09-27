@@ -7,6 +7,6 @@ def fizzbuzz(number)
   elsif number % 5 == 0
     return "buzz"
   else
-    return "No FizzBuzz for you!"
+    return "no fizzbuzz for you!"
   end
 end
