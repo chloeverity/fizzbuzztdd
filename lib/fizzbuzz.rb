@@ -10,3 +10,5 @@ def fizzbuzz(number)
     return "no fizzbuzz for you!"
   end
 end
+
+# Adding commit for makersinit push
